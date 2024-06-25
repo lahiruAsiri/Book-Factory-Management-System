@@ -1,0 +1,65 @@
+.custom-signin-form {
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    padding-right: 40px;
+    background-color: rgba(255, 255, 255, 0.8); /* White with 90% opacity */
+    border-radius: 10px;
+    border: 1px solid #ddd; /* Light gray border */
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+  
+  .custom-signin-form h5 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333; /* Dark gray text color */
+    margin-bottom: 20px;
+  }
+  
+  .custom-signin-form label {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #333; /* Dark gray text color */
+  }
+  
+  .custom-signin-form input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd; /* Light gray border */
+    border-radius: 5px;
+  }
+  
+  .custom-signin-form button {
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(0, 0, 0);
+    color: #fff; /* White text color */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .custom-signin-form button:hover {
+    background-color: white;
+    color: green;
+  }
+  
+  .custom-signin-form .signup-link {
+    font-size: 0.875rem;
+    color: #007bff; /* Blue link color */
+  }
+  
+  .custom-signin-form .signup-link:hover {
+    color: #0056b3; /* Darker blue on hover */
+  }
+
+  .small-popup {
+    width: 300px; /* Adjust the width as needed */
+    height: auto; /* Let the height adjust automatically */
+  }
+  
+  

@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    
+  }
+  
+  .imageBox {
+    width: 800px;
+    height: auto;
+    border-radius: 20px;
+    overflow: hidden; /* To ensure the image doesn't overflow the box */
+  }
+  
+  .centeredImage {
+    width: 100%;
+    height: auto;
+  }
+  
+  .text {
+    background-color: rgba(255, 255, 255, 0.6); /* White with 80% opacity */
+    color: black; /* Black text color */
+    border-radius: 20px; /* Rounded corners */
+    padding: 20px; /* Add padding for better readability */
+    text-align: center;
+    border-color: black;
+    font-size: large
+  }
+  

@@ -1,0 +1,77 @@
+.delete-ordered-material-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    padding-right: 50px;
+    margin-top: 150px;
+    margin-bottom: 300px;
+    border: 1px solid #ccc;
+    background-color: #1c1c1c1a;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.795);
+  }
+  
+  .delete-ordered-material-container input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  
+  .delete-ordered-material-container h2 {
+    text-align: center;
+  }
+  
+  .delete-ordered-material-container button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #000000;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: medium;
+  }
+  
+  .delete-ordered-material-container button:hover {
+    background-color: #505050;
+  }
+  
+  .delete-ordered-material-container .error {
+    color: #dc3545;
+  }
+  
+  .material-details {
+    margin-top: 20px;
+  }
+  
+  .material-details p {
+    padding: 10px;
+  }
+  
+  .material-details strong {
+    font-weight: bold;
+    font-size: 16px;
+    color: #333;
+  }
+  
+  .back-button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #000000;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: medium;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  .back-button:hover {
+    background-color: #373737;
+  }
+  

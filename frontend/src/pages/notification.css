@@ -1,0 +1,27 @@
+.NotificationPage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 250px;
+    margin-bottom: 400px;
+  }
+  
+  .notification-button {
+    margin-top: 30px;
+    margin: 10px;
+  }
+  
+  .notification-link {
+    padding: 20px 30px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: larger;
+    margin-top: 30px;
+  }
+  
+  .notification-link:hover {
+    background-color: #333;
+  }
+  

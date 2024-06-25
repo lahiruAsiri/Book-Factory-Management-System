@@ -1,0 +1,65 @@
+/* GetEmployee.css */
+
+.get-employee-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #1c1c1c1a;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.795);
+}
+
+.get-employee-container form {
+    margin-bottom: 20px;
+}
+
+.get-employee-container input[type="text"] {
+    width: 70%;
+    padding: 10px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    font-size: medium;
+}
+
+.get-employee-container button {
+    display: block;
+    width: 70%;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 60px;
+    background-color: #000000;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: medium;
+}
+
+.get-employee-container button:hover {
+    background-color: #5f5f5f;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    color: rgb(255, 255, 255);
+}
+
+.employee-details {
+    margin-top: 20px;
+}
+
+.employee-details h2 {
+    margin-bottom: 20px;
+    font-size: 20px;
+    margin-right: 10px;
+    color: #333;
+}
+
+.employee-details p {
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+.employee-details strong {
+    font-weight: bold;
+    font-size: 16px;
+    color: #555;
+}

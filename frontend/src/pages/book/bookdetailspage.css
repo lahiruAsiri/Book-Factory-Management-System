@@ -1,0 +1,73 @@
+.book-details-page {
+  padding: 60px;
+  text-align: center;
+  font-size: larger;
+}
+
+.books-container {
+  display: flex;
+}
+
+.book-details-column {
+  flex: 1;
+  margin-left: 40px;
+  margin-top: 40px;
+
+
+}
+
+.chart-column {
+  flex: 1;
+}
+
+.books {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.book-container {
+  background-color: #000000c3;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 20px; 
+  margin-right: 20px;
+  flex: 0 0 calc(40% - 50px);
+}
+
+.book-title {
+  margin-top: 0;
+  color: white;
+}
+
+.book-text {
+  margin-bottom: 5px;
+  color: white;
+}
+
+.bookchart-container {
+  background-color: #ffffff4f;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.795);
+  padding: 30px;
+  margin-top: 40px;
+}
+
+.download-report-button {
+  background-color: #434010; /* Blue background color */
+  color: #ffffff; /* White text color */
+  padding: 10px 20px; /* Padding */
+  border: none; /* No border */
+  border-radius: 5px; /* Rounded corners */
+  font-size: 16px; /* Font size */
+  cursor: pointer; /* Cursor on hover */
+  margin-top: 20px;
+  margin-right: 165px;
+}
+
+.download-report-button:hover {
+  background-color: #0056b3; /* Darker blue background color on hover */
+}
+
+
+

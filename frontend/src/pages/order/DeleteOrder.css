@@ -1,0 +1,62 @@
+.delete-order-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    padding-right: 50px;
+    margin-top: 150px;
+    margin-bottom: 300px;
+    border: 1px solid #ccc;
+    background-color: #1c1c1c1a;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.795);
+  }
+  
+  .delete-order-container input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  
+  .delete-order-container h2 {
+    text-align: center;
+  }
+  
+  .delete-order-container button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #000000;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: medium;
+  }
+  
+  .delete-order-container button:hover {
+    background-color: #505050;
+  }
+  
+  .delete-order-container .error {
+    color: #dc3545;
+  }
+  
+  .order-details {
+    margin-top: 20px;
+  }
+  
+  .order-details p {
+    padding: 10px;
+  }
+  
+  .order-details strong {
+    font-weight: bold;
+    font-size: 16px;
+    color: #333;
+  }
+  
+  body {
+    margin-top: 0;
+  }
+  

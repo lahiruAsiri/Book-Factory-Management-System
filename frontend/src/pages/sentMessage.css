@@ -1,0 +1,43 @@
+.SentMessageList {
+    padding: 20px;
+    margin-bottom: 400px;
+  }
+  
+  .SentMessageList h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .SentMessageList ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .SentMessageList li {
+    background-color: rgba(255, 255, 255, 0.6); /* White with 80% opacity */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Slight shadow */
+    margin-bottom: 15px;
+  }
+  
+  .SentMessageList strong {
+    color: #333;
+  }
+  
+  .SentMessageList button {
+    padding: 10px 20px;
+    background-color: #ff3333;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  
+  .SentMessageList button:hover {
+    background-color: #cc0000;
+  }
+  

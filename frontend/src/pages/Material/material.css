@@ -1,0 +1,29 @@
+.material {
+  display: flex;
+}
+
+.material div {
+  flex: 1;
+  text-align: center;
+}
+
+.md-button {
+  display: block;
+  width: 40%;
+  padding: 40px;
+  background-color: #000000;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  text-decoration: none;
+  cursor: pointer;
+  margin-left: 320px;
+  margin-bottom: 80px;
+  margin-top: 70px;
+  font-size: medium;
+
+}
+
+.md-button:hover {
+  background-color: #383838;
+}

@@ -1,0 +1,53 @@
+.order-report {
+  padding: 60px;
+  text-align: center;
+  font-size: larger;
+}
+
+.order-container {
+  display: flex;
+}
+
+.order-details-column {
+  flex: 1;
+  margin-left: 40px;
+  margin-top: 40px;
+}
+
+.chart-column {
+  flex: 1;
+}
+
+.orders {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.order-item {
+  background-color: #000000c3;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  flex: 0 0 calc(40% - 50px);
+}
+
+.order-customer {
+  margin-top: 0;
+  color: white;
+}
+
+.order-detail {
+  margin-bottom: 5px;
+  color: white;
+}
+
+.chart-container {
+  background-color: #ffffff4f;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.795);
+  padding: 20px;
+  padding-top: 40px;
+  margin-top: 150px;
+}

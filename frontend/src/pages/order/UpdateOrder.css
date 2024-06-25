@@ -1,0 +1,48 @@
+.update-order-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    padding-right: 50px;
+    border: 1px solid #ccc;
+    margin-top: 150px;
+    margin-bottom: 300px;
+    background-color: #1c1c1c1a;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.795);
+  }
+  
+  .update-order-container h2 {
+    margin-bottom: 20px;
+  }
+  
+  .update-order-container form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .update-order-container form input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    font-size: medium;
+  }
+  
+  .update-order-container form button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #000000;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: medium;
+  }
+  
+  .update-order-container form button:hover {
+    background-color: #676767;
+  }
+  
